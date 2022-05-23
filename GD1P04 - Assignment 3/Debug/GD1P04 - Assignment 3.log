@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\YOS.exe\Desktop\GD2P04 - Assignment 2 - Lera Blokhina\GD1P04 - Assignment 3\main.cpp(104,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\YOS.exe\Desktop\GD2P04 - Assignment 2 - Lera Blokhina\GD1P04 - Assignment 3\main.cpp(106,24): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GD1P04 - Assignment 3.vcxproj -> C:\Users\YOS.exe\Desktop\GD2P04 - Assignment 2 - Lera Blokhina\Debug\GD2P04 - Assignment 1.exe
